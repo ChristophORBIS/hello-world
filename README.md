@@ -1,4 +1,6 @@
 # hello-world
 repository für Lernzwecke
 
-hier könnte jetzt 1A - Code stehen..
+hier könnte jetzt geiler Code stehen
+
+und sogar noch mehr Code...
